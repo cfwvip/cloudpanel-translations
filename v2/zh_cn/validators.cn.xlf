@@ -3,27 +3,27 @@
     <file source-language="cn" target-language="cn" datatype="plaintext" original="file.ext">
         <body>
             <trans-unit id="does-not-exist">
-                <source>不存在</source>
+                <source>Does not exist.</source>
                 <target>不存在</target>
             </trans-unit>
             <trans-unit id="this-value-adready-exists">
-                <source>已有重复</source>
+                <source>This value already exists.</source>
                 <target>已有重复</target>
             </trans-unit>
             <trans-unit id="this-value-is-not-a-valid-domain-name">
-                <source>域名错误</source>
+                <source>This value is not a valid domain name.</source>
                 <target>域名错误</target>
             </trans-unit>
             <trans-unit id="does-not-match-certificate">
-                <source>证书不匹配</source>
+                <source>Does not match certificate.</source>
                 <target>证书不匹配</target>
             </trans-unit>
             <trans-unit id="database-server-credentials-are-not-valid">
-                <source>数据库服务器凭据无效</source>
+                <source>Database Server credentials are not valid.</source>
                 <target>数据库服务器凭据无效</target>
             </trans-unit>
             <trans-unit id="port-is-already-in-use">
-                <source>端口已被使用</source>
+                <source>Database Server credentials are not valid.</source>
                 <target>端口已被使用</target>
             </trans-unit>
         </body>
