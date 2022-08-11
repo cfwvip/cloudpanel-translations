@@ -3,103 +3,103 @@
     <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
         <body>
             <trans-unit id="yes">
-                <source>确定</source>
+                <source>Yes</source>
                 <target>确定</target>
             </trans-unit>
             <trans-unit id="no">
-                <source>取消</source>
+                <source>No</source>
                 <target>取消</target>
             </trans-unit>
             <trans-unit id="all">
-                <source>全部</source>
+                <source>All</source>
                 <target>全部</target>
             </trans-unit>
             <trans-unit id="support">
-                <source>支持</source>
+                <source>Support</source>
                 <target>支持</target>
             </trans-unit>
             <trans-unit id="click-to-copy">
-                <source>点击复制</source>
+                <source>Click to Copy</source>
                 <target>点击复制</target>
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
-                <source>复制到剪贴板</source>
+                <source>Copied to Clipboard</source>
                 <target>复制到剪贴板</target>
             </trans-unit>
             <trans-unit id="loading">
-                <source>加载中</source>
+                <source>Loading</source>
                 <target>加载中</target>
             </trans-unit>
             <trans-unit id="blog">
-                <source>博客</source>
+                <source>Blog</source>
                 <target>博客</target>
             </trans-unit>
             <trans-unit id="contact">
-                <source>联系</source>
+                <source>Contact</source>
                 <target>联系</target>
             </trans-unit>
             <trans-unit id="docs">
-                <source>帮助文档</source>
+                <source>Docs</source>
                 <target>帮助文档</target>
             </trans-unit>
             <trans-unit id="update-available">
-                <source>更新失败</source>
+                <source>Update available</source>
                 <target>更新失败</target>
             </trans-unit>
             <trans-unit id="issues">
-                <source>问题反馈</source>
+                <source>Issues</source>
                 <target>问题反馈</target>
             </trans-unit>
             <trans-unit id="submit">
-                <source>提交</source>
+                <source>Submit</source>
                 <target>提交</target>
             </trans-unit>
             <trans-unit id="site">
-                <source>站点</source>
+                <source>Site</source>
                 <target>站点</target>
             </trans-unit>
             <trans-unit id="sites">
-                <source>站点</source>
+                <source>Sites</source>
                 <target>站点</target>
             </trans-unit>
             <trans-unit id="locale-cn">
-                <source>简体中文</source>
+                <source>Chinese</source>
                 <target>简体中文</target>
             </trans-unit>
             <trans-unit id="locale-german">
-                <source>德语</source>
+                <source>German</source>
                 <target>德语</target>
             </trans-unit>
             <trans-unit id="locale-english">
-                <source>英语</source>
+                <source>English</source>
                 <target>英语</target>
             </trans-unit>
             <trans-unit id="locale-french">
-                <source>法语</source>
+                <source>French</source>
                 <target>法语</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
-                <source>荷兰语</source>
+                <source>Dutch</source>
                 <target>荷兰语</target>
             </trans-unit>
             <trans-unit id="locale-italian">
-                <source>意大利语</source>
+                <source>Italian</source>
                 <target>意大利语</target>
             </trans-unit>
             <trans-unit id="locale-spanish">
-                <source>西班牙语</source>
+                <source>Spanish</source>
                 <target>西班牙语</target>
             </trans-unit>
             <trans-unit id="locale-polish">
-                <source>波兰语</source>
+                <source>Polish</source>
                 <target>波兰语</target>
             </trans-unit>
             <trans-unit id="locale-portuguese">
-                <source>葡萄牙语</source>
+                <source>Portuguese</source>
                 <target>葡萄牙语</target>
             </trans-unit>
             <trans-unit id="locale-portuguese-brasil">
-                <source>葡萄牙语（巴西）</source>
+                 <source>Portuguese (Brasil)</source>
                 <target>葡萄牙语（巴西）</target>
             </trans-unit>
             <trans-unit id="locale-greek">
@@ -123,19 +123,19 @@
                 <target>土耳其语</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
-                <source>IPv4 公网地址</source>
+                <source>IPv4 Public IP</source>
                 <target>IPv4 公网地址</target>
             </trans-unit>
             <trans-unit id="ipv6-public-ip">
-                <source>IPv6 公网地址</source>
+                <source>IPv6 Public IP</source>
                 <target>IPv6 公网地址</target>
             </trans-unit>
             <trans-unit id="os">
-                <source>操作系统</source>
+                <source>OS</source>
                 <target>操作系统</target>
             </trans-unit>
             <trans-unit id="hostname">
-                <source>主机名</source>
+                <source>Hostname</source>
                 <target>主机名</target>
             </trans-unit>
             <trans-unit id="cpu">
@@ -143,43 +143,43 @@
                 <target>CPU</target>
             </trans-unit>
             <trans-unit id="cores">
-                <source>核心</source>
+                <source>Cores</source>
                 <target>核心</target>
             </trans-unit>
             <trans-unit id="memory">
-                <source>内存</source>
+                <source>Memory</source>
                 <target>内存</target>
             </trans-unit>
             <trans-unit id="user-name">
-                <source>用户名</source>
+                <source>User Name</source>
                 <target>用户名</target>
             </trans-unit>
             <trans-unit id="password">
-                <source>密码</source>
+                <source>Password</source>
                 <target>密码</target>
             </trans-unit>
             <trans-unit id="login">
-                <source>登录</source>
+                <source>Log In</source>
                 <target>登录</target>
             </trans-unit>
             <trans-unit id="settings">
-                <source>设置</source>
+                <source>Settings</source>
                 <target>设置</target>
             </trans-unit>
             <trans-unit id="logout">
-                <source>注销</source>
+                <source>Logout</source>
                 <target>注销</target>
             </trans-unit>
             <trans-unit id="language">
-                <source>语言</source>
+                <source>Language</source>
                 <target>语言</target>
             </trans-unit>
             <trans-unit id="firstName">
-                <source>姓</source>
+                <source>First Name</source>
                 <target>姓</target>
             </trans-unit>
             <trans-unit id="lastName">
-                <source>名</source>
+                <source>Last Name</source>
                 <target>名</target>
             </trans-unit>
             <trans-unit id="email">
@@ -187,15 +187,15 @@
                 <target>E-Mail</target>
             </trans-unit>
             <trans-unit id="timezone">
-                <source>时区</source>
+                <source>Last Name</source>
                 <target>时区</target>
             </trans-unit>
             <trans-unit id="generate-new-password">
-                <source>初始化密码</source>
+                <source>Generate new password</source>
                 <target>初始化密码</target>
             </trans-unit>
             <trans-unit id="create-user-button">
-                <source>创建用户</source>
+                <source>Create User</source>
                 <target>创建用户</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
