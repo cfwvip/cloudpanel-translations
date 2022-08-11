@@ -67,60 +67,60 @@
                 <target>简体中文</target>
             </trans-unit>
             <trans-unit id="locale-german">
-                <source>German</source>
-                <target>German</target>
+                <source>德语</source>
+                <target>德语</target>
             </trans-unit>
             <trans-unit id="locale-english">
-                <source>English</source>
-                <target>English</target>
+                <source>英语</source>
+                <target>英语</target>
             </trans-unit>
             <trans-unit id="locale-french">
-                <source>French</source>
-                <target>French</target>
+                <source>法语</source>
+                <target>法语</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
-                <source>Dutch</source>
-                <target>Dutch</target>
+                <source>荷兰语</source>
+                <target>荷兰语</target>
             </trans-unit>
             <trans-unit id="locale-italian">
-                <source>Italian</source>
-                <target>Italian</target>
+                <source>意大利语</source>
+                <target>意大利语</target>
             </trans-unit>
             <trans-unit id="locale-spanish">
-                <source>Spanish</source>
-                <target>Spanish</target>
+                <source>西班牙语</source>
+                <target>西班牙语</target>
             </trans-unit>
             <trans-unit id="locale-polish">
-                <source>Polish</source>
-                <target>Polish</target>
+                <source>波兰语</source>
+                <target>波兰语</target>
             </trans-unit>
             <trans-unit id="locale-portuguese">
-                <source>Portuguese</source>
-                <target>Portuguese</target>
+                <source>葡萄牙语</source>
+                <target>葡萄牙语</target>
             </trans-unit>
             <trans-unit id="locale-portuguese-brasil">
-                <source>Portuguese (Brasil)</source>
-                <target>Portuguese (Brasil)</target>
+                <source>葡萄牙语（巴西）</source>
+                <target>葡萄牙语（巴西）</target>
             </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
-                <target>Greek</target>
+                <target>希腊语</target>
             </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
-                <target>Lithuanian</target>
+                <target>立陶宛语</target>
             </trans-unit>
             <trans-unit id="locale-indonesian">
                 <source>Indonesian</source>
-                <target>Indonesian</target>
+                <target>印度尼西亚语</target>
             </trans-unit>
             <trans-unit id="locale-romanian">
                 <source>Romanian</source>
-                <target>Romanian</target>
+                <target>罗马尼亚</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
-                <target>Turkish</target>
+                <target>土耳其语</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 公网地址</source>
