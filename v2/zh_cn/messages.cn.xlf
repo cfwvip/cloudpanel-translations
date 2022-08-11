@@ -3,64 +3,68 @@
     <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
         <body>
             <trans-unit id="yes">
-                <source>Yes</source>
-                <target>Yes</target>
+                <source>确定</source>
+                <target>确定</target>
             </trans-unit>
             <trans-unit id="no">
-                <source>No</source>
-                <target>No</target>
+                <source>取消</source>
+                <target>取消</target>
             </trans-unit>
             <trans-unit id="all">
-                <source>All</source>
-                <target>All</target>
+                <source>全部</source>
+                <target>全部</target>
             </trans-unit>
             <trans-unit id="support">
-                <source>Support</source>
-                <target>Support</target>
+                <source>支持</source>
+                <target>支持</target>
             </trans-unit>
             <trans-unit id="click-to-copy">
-                <source>Click to Copy</source>
-                <target>Click to Copy</target>
+                <source>点击复制</source>
+                <target>点击复制</target>
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
-                <source>Copied to Clipboard</source>
-                <target>Copied to Clipboard</target>
+                <source>复制到剪贴板</source>
+                <target>复制到剪贴板</target>
             </trans-unit>
             <trans-unit id="loading">
-                <source>Loading</source>
-                <target>Loading</target>
+                <source>加载中</source>
+                <target>加载中</target>
             </trans-unit>
             <trans-unit id="blog">
-                <source>Blog</source>
-                <target>Blog</target>
+                <source>博客</source>
+                <target>博客</target>
             </trans-unit>
             <trans-unit id="contact">
-                <source>Contact</source>
-                <target>Contact</target>
+                <source>联系</source>
+                <target>联系</target>
             </trans-unit>
             <trans-unit id="docs">
-                <source>Docs</source>
-                <target>Docs</target>
+                <source>帮助文档</source>
+                <target>帮助文档</target>
             </trans-unit>
             <trans-unit id="update-available">
-                <source>Update available</source>
-                <target>Update available</target>
+                <source>更新失败</source>
+                <target>更新失败</target>
             </trans-unit>
             <trans-unit id="issues">
-                <source>Issues</source>
-                <target>Issues</target>
+                <source>问题反馈</source>
+                <target>问题反馈</target>
             </trans-unit>
             <trans-unit id="submit">
-                <source>Submit</source>
-                <target>Submit</target>
+                <source>提交</source>
+                <target>提交</target>
             </trans-unit>
             <trans-unit id="site">
-                <source>Site</source>
-                <target>Site</target>
+                <source>站点</source>
+                <target>站点</target>
             </trans-unit>
             <trans-unit id="sites">
-                <source>Sites</source>
-                <target>Sites</target>
+                <source>站点</source>
+                <target>站点</target>
+            </trans-unit>
+            <trans-unit id="locale-cn">
+                <source>简体中文</source>
+                <target>简体中文</target>
             </trans-unit>
             <trans-unit id="locale-german">
                 <source>German</source>
@@ -119,80 +123,80 @@
                 <target>Turkish</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
-                <source>IPv4 Public IP</source>
-                <target>IPv4 Public IP</target>
+                <source>IPv4 公网地址</source>
+                <target>IPv4 公网地址</target>
             </trans-unit>
             <trans-unit id="ipv6-public-ip">
-                <source>IPv6 Public IP</source>
-                <target>IPv6 Public IP</target>
+                <source>IPv6 公网地址</source>
+                <target>IPv6 公网地址</target>
             </trans-unit>
             <trans-unit id="os">
-                <source>OS</source>
-                <target>OS</target>
+                <source>操作系统</source>
+                <target>操作系统</target>
             </trans-unit>
             <trans-unit id="hostname">
-                <source>Hostname</source>
-                <target>Hostname</target>
+                <source>主机名</source>
+                <target>主机名</target>
             </trans-unit>
             <trans-unit id="cpu">
                 <source>CPU</source>
                 <target>CPU</target>
             </trans-unit>
             <trans-unit id="cores">
-                <source>Cores</source>
-                <target>Cores</target>
+                <source>核心</source>
+                <target>核心</target>
             </trans-unit>
             <trans-unit id="memory">
-                <source>Memory</source>
-                <target>Memory</target>
+                <source>内存</source>
+                <target>内存</target>
             </trans-unit>
             <trans-unit id="user-name">
-                <source>User Name</source>
-                <target>User Name</target>
+                <source>用户名</source>
+                <target>用户名</target>
             </trans-unit>
             <trans-unit id="password">
-                <source>Password</source>
-                <target>Password</target>
+                <source>密码</source>
+                <target>密码</target>
             </trans-unit>
             <trans-unit id="login">
-                <source>Log In</source>
-                <target>Log In</target>
+                <source>登录</source>
+                <target>登录</target>
             </trans-unit>
             <trans-unit id="settings">
-                <source>Settings</source>
-                <target>Settings</target>
+                <source>设置</source>
+                <target>设置</target>
             </trans-unit>
             <trans-unit id="logout">
-                <source>Logout</source>
-                <target>Logout</target>
+                <source>注销</source>
+                <target>注销</target>
             </trans-unit>
             <trans-unit id="language">
-                <source>Language</source>
-                <target>Language</target>
+                <source>语言</source>
+                <target>语言</target>
             </trans-unit>
             <trans-unit id="firstName">
-                <source>First Name</source>
-                <target>First Name</target>
+                <source>姓</source>
+                <target>姓</target>
             </trans-unit>
             <trans-unit id="lastName">
-                <source>Last Name</source>
-                <target>Last Name</target>
+                <source>名</source>
+                <target>名</target>
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
                 <target>E-Mail</target>
             </trans-unit>
             <trans-unit id="timezone">
-                <source>Timezone</source>
-                <target>Timezone</target>
+                <source>时区</source>
+                <target>时区</target>
             </trans-unit>
             <trans-unit id="generate-new-password">
-                <source>Generate new password</source>
-                <target>Generate new password</target>
+                <source>初始化密码</source>
+                <target>初始化密码</target>
             </trans-unit>
             <trans-unit id="create-user-button">
-                <source>Create User</source>
-                <target>Create User</target>
+                <source>创建用户</source>
+                <target>创建用户</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
